@@ -8,9 +8,9 @@ const Routes = createAppContainer(
   createStackNavigator(
     { Main, User },
     {
-      headerLayoutPreset: 'center',
-      headerBackTitleVisible: false,
       defaultNavigationOptions: {
+        headerBackTitleVisible: false,
+        headerTitleAlign: 'center',
         headerStyle: {
           backgroundColor: '#7159c1',
         },
