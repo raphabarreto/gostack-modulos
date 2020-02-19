@@ -16,6 +16,7 @@
 * [Módulo 04](https://github.com/raphabarreto/gostack-modulos/tree/master/modulo-04)
 * [Módulo 05](https://github.com/raphabarreto/gostack-modulos/tree/master/modulo-05)
 * [Módulo 06](https://github.com/raphabarreto/gostack-modulos/tree/master/modulo-06)
+* [Módulo 07](https://github.com/raphabarreto/gostack-modulos/tree/master/modulo-07)
 
 <hr/>
 
@@ -29,6 +30,9 @@
 - ⚡ [Node](https://nodejs.org/pt-br/)
 - ⚡ [React](https://pt-br.reactjs.org/)
 - ⚡ [React Native](https://pt-br.reactjs.org/)
+- ⚡ [Redux](https://redux.js.org/)
+- ⚡ [Redux Saga](https://redux-saga.js.org/)
+
 
 ---
 
