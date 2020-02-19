@@ -3,7 +3,10 @@ import { createGlobalStyle } from 'styled-components';
 import background from '../assets/images/background.svg';
 
 export default createGlobalStyle`
-@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+  @font-face {
+    font-family: "Roboto";
+    src: url("../assets/fonts/Roboto-Regular.ttf") format('ttf');
+  }
 
   * {
     margin: 0;
