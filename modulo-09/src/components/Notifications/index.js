@@ -51,9 +51,9 @@ export default function Notifications() {
       notifications.map(notification =>
         notification._id === id
           ? {
-            ...notification,
-            read: true,
-          }
+              ...notification,
+              read: true,
+            }
           : notification
       )
     );
