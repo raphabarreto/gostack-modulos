@@ -16,6 +16,8 @@
 * [Módulo 06](https://github.com/raphabarreto/gostack-modulos/tree/master/modulo-06)
 * [Módulo 07](https://github.com/raphabarreto/gostack-modulos/tree/master/modulo-07)
 * [Módulo 08](https://github.com/raphabarreto/gostack-modulos/tree/master/modulo-08)
+* [Módulo 09](https://github.com/raphabarreto/gostack-modulos/tree/master/modulo-09)
+* [Módulo 10](https://github.com/raphabarreto/gostack-modulos/tree/master/modulo-10)
 
 <hr/>
 
