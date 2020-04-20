@@ -21,13 +21,13 @@ describe('TechList component', () => {
 
   cleanup();
 
-  it('should store techs in storage', () => {
+  it('should store techs in storage', async () => {
     let { getByText, getByTestId, getByLabelText } = render(<TechList />);
 
     fireEvent.change(getByLabelText('Tech'), { target: { value: 'Node.js' } });
     fireEvent.submit(getByTestId('tech-form'));
 
-    cleanup();
+    await cleanup();
 
     ({ getByText, getByTestId, getByLabelText } = render(<TechList />));
 
